@@ -13,7 +13,7 @@ import CadastroScreenPagamento from "./src/Cadastro/CadastroScreenPagamento";
 
 function App(): JSX.Element {
   return (
-    //<LoginScreenADM/>
+    <LoginScreenADM/>
     //<LoginScreenCliente/>
     //<LoginScreenProfissional/>
 
@@ -23,7 +23,7 @@ function App(): JSX.Element {
     //<CadastroScreenProfissional />
     //<CadastroScreenCliente />
     //<CadastroScreenServico />
-    <CadastroScreenPagamento />
+    //<CadastroScreenPagamento />
 
   );
 }
